@@ -32,7 +32,7 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 
 ### Exercício 01 - Best Time to Buy and Sell Stock II
 
-![Exercício 1 - Best Time to Buy and Sell Stock II](exercicios/122/122.png)
+![Exercício 1 - Best Time to Buy and Sell Stock II](exerc/122/122.png)
 
 ### Exercício 02 - 
 
