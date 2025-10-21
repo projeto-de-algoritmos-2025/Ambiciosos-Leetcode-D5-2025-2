@@ -47,3 +47,5 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 ![Exercício 4 - Create Maximum Number](exerc/321/sol.png)
 
 ### Vídeo
+
+![Vídeo explicativo do trabalho](https://drive.google.com/file/d/1lL4Qkp3RwkKV7c7AKoVfxrkHhxeo8pNH/view?usp=sharing)
