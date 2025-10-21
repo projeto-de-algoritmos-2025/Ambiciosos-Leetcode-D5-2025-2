@@ -24,8 +24,8 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 |---------|--------|
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Médio |
 | [135. Candy](https://leetcode.com/problems/candy/description/) | Difícil |
-| []() | Médio |
-| []() | Difícil |
+| [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | Médio |
+| [321. Create Maximum Number](https://leetcode.com/problems/create-maximum-number) | Difícil |
 
 
 ## Screenshots
@@ -34,16 +34,16 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 
 ![Exercício 1 - Best Time to Buy and Sell Stock II](exerc/122/122.png)
 
-### Exercício 02 - 
+### Exercício 02 -
 
 ![Exercício 2 - Candy](exerc/135/135.png)
 
-### Exercício 03 - 
+### Exercício 03 -
 
-![]()
+![Exercício 3 - 2 Keys Keyboard](exerc/650/sol.png)
 
-### Exercício 04 - 
+### Exercício 04 -
 
-![]()
+![Exercício 4 - Create Maximum Number](exerc/321/sol.png)
 
 ### Vídeo
