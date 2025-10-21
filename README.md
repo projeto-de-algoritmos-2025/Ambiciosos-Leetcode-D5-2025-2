@@ -48,4 +48,4 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 
 ### Vídeo
 
-![Vídeo explicativo do trabalho](https://drive.google.com/file/d/1lL4Qkp3RwkKV7c7AKoVfxrkHhxeo8pNH/view?usp=sharing)
+[Vídeo explicativo do trabalho](https://drive.google.com/file/d/1lL4Qkp3RwkKV7c7AKoVfxrkHhxeo8pNH/view?usp=sharing)
